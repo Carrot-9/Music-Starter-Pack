@@ -1,0 +1,106 @@
+{
+    "Albums": [
+      {
+        "name": "Camel - Mirage",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/89/Camel-Mirage.jpg/220px-Camel-Mirage.jpg"
+      },
+      {
+        "name": "Car Seat Headrest - Teens of Denial",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Teens_of_Denial_Car_Seat_Headrest.jpg/220px-Teens_of_Denial_Car_Seat_Headrest.jpg"
+      },
+      {
+        "name": "The Cure - The Head on the Door",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/64/The_Cure_-_The_Head_on_the_Door.jpg/220px-The_Cure_-_The_Head_on_the_Door.jpg"
+      },
+      {
+        "name": "Duster - Stratosphere",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Duster_-_Stratosphere_front_cover.jpg/220px-Duster_-_Stratosphere_front_cover.jpg"
+      },
+      {
+        "name": "Panchiko - D>E>A>T>H>M>E>T>A>L",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW7touLYpi_-q3hfr0WuJnzomzU2ZH6B7Dcw&s"
+      },
+      {
+        "name": "Godspeed You! Black Emperor - Yanqui U.X.O.",
+        "image": "https://upload.wikimedia.org/wikipedia/en/2/2b/Gybeyanquiuxo.jpg"
+      },
+      {
+        "name": "samlrc - A Lonely Sinner",
+        "image": "https://e.snmc.io/i/600/s/98907aa2a784790f010e5ff321883b62/11877139/samlrc-a-lonely-sinner-Cover-Art.png"
+      },
+      {
+        "name": "Modest Mouse - This Is a Long Drive for Someone with Nothing to Think About",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/MMLongDrive5075.jpg/220px-MMLongDrive5075.jpg"
+      },
+      {
+        "name": "Melt-Banana - Fetch",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Fetch_Album_Art.jpg/220px-Fetch_Album_Art.jpg"
+      },
+      {
+        "name": "My Bloody Valentine - Loveless",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/My_Bloody_Valentine_-_Loveless.png/220px-My_Bloody_Valentine_-_Loveless.png"
+      },
+      {
+        "name": "Pink Floyd - Animals",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Pink_Floyd-Animals-Frontal.jpg/220px-Pink_Floyd-Animals-Frontal.jpg"
+      },
+      {
+        "name": "Radiohead - OK Computer",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Radioheadokcomputer.png/220px-Radioheadokcomputer.png"
+      },
+      {
+        "name": "The Strokes - Is This It?",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/The_Strokes_-_Ist_Tis_It_US_cover.png/220px-The_Strokes_-_Ist_Tis_It_US_cover.png"
+      },
+      {
+        "name": "Yves Tumor - Heaven to a Tortured Mind",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Heaven_to_a_tortured_mind_album_cover.jpg/220px-Heaven_to_a_tortured_mind_album_cover.jpg"
+      },
+      {
+        "name": "The Velvet Underground - The Velvet Underground & Nico",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Velvet_Underground_and_Nico.jpg/220px-Velvet_Underground_and_Nico.jpg"
+      },
+      {
+        "name": "Weezer - Pinkerton",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/Pinkerton_cover.jpg/220px-Pinkerton_cover.jpg"
+      },
+      {
+        "name": "Steven Wilson - The Raven That Refused to Sing (and Other Stories)",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Wilson_Steven_2013_Raven_cover.jpg/220px-Wilson_Steven_2013_Raven_cover.jpg"
+      },
+      {
+        "name": "What is your name? - The Now Now and Never",
+        "image": "https://e.snmc.io/i/600/s/a21a436204b531f720db6eccb32379a4/10901440/what-is-your-name-the-now-now-and-never-Cover-Art.jpg"
+      },
+      {
+        "name": "World's End Girlfriend - Hurtbreak Wonderland",
+        "image": "https://f4.bcbits.com/img/a3763873815_65"
+      },
+      {
+        "name": "*shels - Plains of the Purple Buffalo",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Plains_of_the_Purple_Buffalo.jpg/220px-Plains_of_the_Purple_Buffalo.jpg"
+      },
+      {
+        "name": "Alex G - Trick",
+        "image": "https://f4.bcbits.com/img/a2383768177_65"
+      },
+      {
+        "name": "Jimi Hendrix - Electric Ladyland",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Jimi_Hendrix_-_Electric_Ladyland.jpg/220px-Jimi_Hendrix_-_Electric_Ladyland.jpg"
+      },
+      {
+        "name": "CAKE - Fashion Nugget",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/da/Cake_Fashion_Nugget.jpg/220px-Cake_Fashion_Nugget.jpg"
+      },
+      {
+        "name": "Neutral Milk Hotel - In the Aeroplane Over the Sea",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/83/In_the_aeroplane_over_the_sea_album_cover_copy.jpg/220px-In_the_aeroplane_over_the_sea_album_cover_copy.jpg"
+      },
+      {
+        "name": "BLACK MIDI - schlagenheim",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/Black_Midi_-_Schlagenheim.png/220px-Black_Midi_-_Schlagenheim.png"
+      }
+    ]
+  }
+  
+      

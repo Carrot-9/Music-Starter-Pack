@@ -1,0 +1,114 @@
+html {
+  background: linear-gradient(#1373f1, #6a22dd);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  box-sizing: border-box;
+  overflow-x: hidden; 
+}
+
+.header {
+  text-align: center;
+  color: #eafa09;
+}
+
+
+.Topsters1, 
+.Topsters2   {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px,1fr));
+  justify-content: center;
+  gap: 10px;
+}
+
+
+.Topsters1 img
+, .Topsters2 img {
+    width: 320px;
+    height: 240px;
+    border: 5px solid #2913f1;
+
+  }
+
+.Topsters1, .Topsters2 {
+  animation: fadeIn 5s; 
+}
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+  
+}
+
+.Container {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  gap: 10px;
+}
+
+.Box1,
+.Box2 {
+  flex: auto;
+  width: 600px;
+  height: 480px;
+  padding: 5px;
+  border: 5px solid #be6a85;
+  background-color: #b4be1e;
+  text-align: justify;
+  text-indent: 2em;
+  line-height: 2;
+  font-size: large;
+  font-family: 'Lucida Sans', sans-serif;
+  color: #2463b4;
+}
+
+.Box2 {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+
+}
+
+.button {
+  position: relative;
+  bottom: 50px;
+  width: 150px;      
+  height: 50px;
+  border-radius: 5px ;
+  font-size: larger;
+  font-family:'Franklin Gothic Medium', sans-serif;
+}
+
+.button:hover {
+  border: solid 5px #2463b4;
+}
+
+#album-image {
+  position: relative;
+  top: 50px;
+  width: 125px;
+  height: 125px;
+  border: solid 5px #000000;
+}
+
+#album-title {
+  position: relative;
+  top: 50px;
+  width: 250px;
+  height: 25px;
+  color: #2463b4;
+  font-size:small;
+  font-family:'Verdana', sans-serif;
+  text-align:center;
+}

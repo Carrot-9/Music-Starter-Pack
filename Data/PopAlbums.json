@@ -1,0 +1,105 @@
+{
+   "Albums": [
+      {
+        "name": "Michael Jackson - Thriller",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/Michael_Jackson_-_Thriller.png/220px-Michael_Jackson_-_Thriller.png"
+      },
+      {
+        "name": "Janet Jackson - Control",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Janet_Jackson_-_Control.png/220px-Janet_Jackson_-_Control.png"
+      },
+      {
+        "name": "The Beatles - Abbey Road (Remastered)",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Beatles_-_Abbey_Road.jpg/220px-Beatles_-_Abbey_Road.jpg"
+      },
+      {
+        "name": "Sade - Diamond Life",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Sade_-_Diamond_Life.png/220px-Sade_-_Diamond_Life.png"
+      },
+      {
+        "name": "Fiona Apple - When The Pawn...",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Fiona_apple_when_the_pawn.jpg/220px-Fiona_apple_when_the_pawn.jpg"
+      },
+      {
+        "name": "Lorde - Melodrama",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Lorde_-_Melodrama.png/220px-Lorde_-_Melodrama.png"
+      },
+      {
+        "name": "Frank Ocean - Blonde",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Blonde_-_Frank_Ocean.jpeg/220px-Blonde_-_Frank_Ocean.jpeg"
+      },
+      {
+        "name": "FKA twigs - MAGDALENE",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/91/FKATwigs_Magdalene.png/220px-FKATwigs_Magdalene.png"
+      },
+      {
+        "name": "Mitski - Retired from Sad, New Career in Business",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Retired_from_sad.jpg/220px-Retired_from_sad.jpg"
+      },
+      {
+        "name": "St. Vincent - Strange Mercy",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/St._Vincent_-_Strange_Mercy.jpg/220px-St._Vincent_-_Strange_Mercy.jpg"
+      },
+      {
+        "name": "Tiger Trap - Tiger Trap",
+        "image": "https://upload.wikimedia.org/wikipedia/en/f/f4/Tiger_Trap.jpg"
+      },
+      {
+        "name": "Stereolab - Dots and Loops",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Stereolabdotsandloops.png/220px-Stereolabdotsandloops.png"
+      },
+      {
+        "name": "They Might Be Giants - Lincoln",
+        "image": "https://upload.wikimedia.org/wikipedia/en/f/f3/TheyMightBeGiants-Lincoln.jpg"
+      },
+      {
+        "name": "hakushi hasegawa - Air Ni Ni",
+        "image": "https://i.scdn.co/image/ab67616d00001e02c4a3fb07488590059ef7ef85"
+      },
+      {
+        "name": "Regina Spektor - Soviet Kitsch",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Soviet_Kitsch_by_Regina_Spektor.jpg/220px-Soviet_Kitsch_by_Regina_Spektor.jpg"
+      },
+      {
+        "name": "SPELLLING - The Turning Wheel",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/The_Turning_Wheel.png/220px-The_Turning_Wheel.png"
+      },
+      {
+        "name": "MAGDALENA BAY - Mercurial World",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Mercurial_World.jpeg/220px-Mercurial_World.jpeg"
+      },
+      {
+        "name": "Laufey - Everything I Know About Love",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Laufey_-_Everything_I_Know_About_Love.png/220px-Laufey_-_Everything_I_Know_About_Love.png"
+      },
+      {
+        "name": "Jane Remover - frailty",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/418876-frailty.jpg/220px-418876-frailty.jpg"
+      },
+      {
+        "name": "100 gecs - 10,000 gecs",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/10000_gecs_album_cover.jpg/220px-10000_gecs_album_cover.jpg"
+      },
+      {
+        "name": "Willow - Empathogen",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Empathogen_%28album%29.jpg/220px-Empathogen_%28album%29.jpg"
+      },
+      {
+        "name": "Billie Eilish - Hit Me Hard and Soft",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Billie_Eilish_-_Hit_Me_Hard_and_Soft.png/220px-Billie_Eilish_-_Hit_Me_Hard_and_Soft.png"
+      },
+      {
+        "name": "Charli XCX - BRAT",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Charli_XCX_-_Brat_%28album_cover%29.png/220px-Charli_XCX_-_Brat_%28album_cover%29.png"
+      },
+      {
+        "name": "Chappell Roan - The Rise and Fall of a Midwest Princess",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Chappell_Roan_-_The_Rise_and_Fall_of_a_Midwest_Princess.png/220px-Chappell_Roan_-_The_Rise_and_Fall_of_a_Midwest_Princess.png"
+      },
+      {
+        "name": "Infinity Song - Metamorphosis Complete",
+        "image": "https://i.scdn.co/image/ab67616d0000b2734736bf271cf14e94fdc632b6"
+      }
+    ]
+  }
+  

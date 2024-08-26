@@ -1,0 +1,105 @@
+{
+    "Albums": [
+      {
+        "name": "Kendrick Lamar - To Pimp a Butterfly",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Kendrick_Lamar_-_To_Pimp_a_Butterfly.png/220px-Kendrick_Lamar_-_To_Pimp_a_Butterfly.png"
+      },
+      {
+        "name": "Eminem - The Marshall Mathers LP",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/The_Marshall_Mathers_LP.jpg/220px-The_Marshall_Mathers_LP.jpg"
+      },
+      {
+        "name": "J Dilla - Donuts",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/14/Dilladonutscover.jpg/220px-Dilladonutscover.jpg"
+      },
+      {
+        "name": "Jay-Z - 4:44",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/4-44_album_cover.svg/220px-4-44_album_cover.svg.png"
+      },
+      {
+        "name": "Jid - DiCaprio 2",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/27/DiCaprio2ALT.jpg/220px-DiCaprio2ALT.jpg"
+      },
+      {
+        "name": "Joey Bada$$ - 1999",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/1999_Joey_Badass.jpg/220px-1999_Joey_Badass.jpg"
+      },
+      {
+        "name": "Pusha T - DAYTONA",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Daytona_by_Pusha_T.jpg/220px-Daytona_by_Pusha_T.jpg"
+      },
+      {
+        "name": "Chance the Rapper - Acid Rap",
+        "image": "https://upload.wikimedia.org/wikipedia/en/5/5b/Chance_the_rapper_acid_rap.jpg"
+      },
+      {
+        "name": "Playboi Carti - Die Lit",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Die_Lit_by_Playboi_Carti.jpg/220px-Die_Lit_by_Playboi_Carti.jpg"
+      },
+      {
+        "name": "Earl Sweatshirt - some rap songs",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Some_Rap_Songs.jpg/220px-Some_Rap_Songs.jpg"
+      },
+      {
+        "name": "Little Simz - NO THANK YOU",
+        "image": "https://upload.wikimedia.org/wikipedia/en/e/e9/Little_Simz_-_NO_THANK_YOU.jpg"
+      },
+      {
+        "name": "Travis Scott - Rodeo",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Rodeo_-_Album_Cover_by_Travis_Scott%2C_September_4%2C_2015.jpg/220px-Rodeo_-_Album_Cover_by_Travis_Scott%2C_September_4%2C_2015.jpg"
+      },
+      {
+        "name": "Injury Reserve - Floss",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735e66961c0acc955347d076bb"
+      },
+      {
+        "name": "Death Grips - Bottomless Pit",
+        "image": "https://upload.wikimedia.org/wikipedia/en/f/f2/Bottomlesspitdeathgrips.jpg"
+      },
+      {
+        "name": "grouptherapy. - i was mature for my age, but i was still a child",
+        "image": "https://m.media-amazon.com/images/I/51UI4voZMLL._UXNaN_FMjpg_QL85_.jpg"
+      },
+      {
+        "name": "Tyler, the Creator - Cherry Bomb",
+        "image": "https://lastfm.freetls.fastly.net/i/u/avatar170s/53fda80b8b3bac7397011307a1f90721"
+      },
+      {
+        "name": "Danny Brown - XXX (Deluxe Version)",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/XXX_Danny_Brown.jpg/220px-XXX_Danny_Brown.jpg"
+      },
+      {
+        "name": "clipping. - Visions of Bodies Being Burned",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Clipping_-_Visions_of_Bodies_Being_Burned_cover.jpg/220px-Clipping_-_Visions_of_Bodies_Being_Burned_cover.jpg"
+      },
+      {
+        "name": "MF DOOM - MM...FOOD",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Mmfood.jpg/220px-Mmfood.jpg"
+      },
+      {
+        "name": "Madvillain - Madvillainy",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Madvillainy_cover.png/220px-Madvillainy_cover.png"
+      },
+      {
+        "name": "Viktor Vaughn - Vaudeville Villain",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Vaudevillevillain.jpg/220px-Vaudevillevillain.jpg"
+      },
+      {
+        "name": "Kids See Ghosts - Kids See Ghosts",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Kids_See_Ghosts_Cover.png/220px-Kids_See_Ghosts_Cover.png"
+      },
+      {
+        "name": "Kanye West - The College Dropout",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/Kanyewest_collegedropout.jpg/220px-Kanyewest_collegedropout.jpg"
+      },
+      {
+        "name": "JPEGMAFIA - VETERAN",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/JPEGMAFIA-Veteran_Cover.jpg/220px-JPEGMAFIA-Veteran_Cover.jpg"
+      },
+      {
+        "name": "JPEGMAFIA & Danny Brown - scaring the hoes",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Scaring_the_Hoes.webp/220px-Scaring_the_Hoes.webp.png"
+      }
+    ]
+  }
+  
