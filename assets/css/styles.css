@@ -27,7 +27,7 @@ html, body {
 
 @media(width <= 1250px) {
   .Topsters1,.Topsters2 {
-  grid-template-columns: repeat(auto-fit, minmax(500px,1fr));  /* Splits the rows into two*/
+  grid-template-columns: repeat(2, 1fr);  /* Splits the rows into two*/
   }
 }
 
