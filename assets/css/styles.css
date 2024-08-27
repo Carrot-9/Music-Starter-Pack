@@ -27,19 +27,13 @@ html, body {
 
 @media(width <= 1250px) {
   .Topsters1,.Topsters2 {
-  grid-template-columns: repeat(auto-fit, minmax(500px,1fr));
-  }
-}
-
-@media(width >= 1500px) {
-  .Topsters1,.Topsters2 {
-  grid-template-columns: repeat(4,1fr);
+  grid-template-columns: repeat(auto-fit, minmax(500px,1fr));  /* Splits the rows into two*/
   }
 }
 
 .Topsters1 img
 , .Topsters2 img {
-    width: 98%;   /* Leaves a small gap in between every image */
+    width: 98%;   
     height: 240px;
     border: 5px solid #2913f1;
   }
