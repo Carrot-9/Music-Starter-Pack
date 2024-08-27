@@ -22,17 +22,20 @@ html, body {
 .Topsters2   {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px,1fr));
-  justify-content: center;
   gap: 10px;
 }
 
+@media(width <= 1250px) {
+  .Topsters1,.Topsters2 {
+  grid-template-columns: repeat(auto-fit, minmax(500px,1fr));
+  }
+}
 
 .Topsters1 img
 , .Topsters2 img {
-    width: 320px;
+    width: 98%;   /* Leaves a small gap in between every image */
     height: 240px;
     border: 5px solid #2913f1;
-
   }
 
 .Topsters1, .Topsters2 {
@@ -73,11 +76,16 @@ html, body {
   color: #2463b4;
 }
 
+@media(width <= 700px) {
+  .Box1, .Box2 {
+    font-size: 1.5vw;
+  }
+}
+
 .Box2 {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-
 }
 
 .button {
@@ -94,21 +102,31 @@ html, body {
   border: solid 5px #2463b4;
 }
 
+.button:focus {
+  outline: none;
+}
+
 #album-image {
   position: relative;
   top: 50px;
   width: 125px;
-  height: 125px;
-  border: solid 5px #000000;
+  height: 125px;;
+  border: 5px solid #000000;
 }
 
 #album-title {
   position: relative;
+  right: 60px;
   top: 50px;
   width: 250px;
   height: 25px;
   color: #2463b4;
-  font-size:small;
+  font-size: small;
   font-family:'Verdana', sans-serif;
-  text-align:center;
+}
+
+@media(width <= 1250px) {
+  #album-title {
+    font-size: 1vw;
+  }
 }
