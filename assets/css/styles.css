@@ -78,7 +78,7 @@ html, body {
 
 @media(width <= 700px) {
   .Box1, .Box2 {
-    font-size: 1.5vw;
+    font-size: 2vw;
   }
 }
 
