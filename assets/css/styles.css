@@ -41,16 +41,6 @@ html, body {
 .Topsters1, .Topsters2 {
   animation: fadeIn 5s; 
 }
-@keyframes fadeIn {
-  from {
-    opacity: 0;
-  }
-
-  to {
-    opacity: 1;
-  }
-  
-}
 
 .Container {
   display: flex;
