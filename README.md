@@ -12,4 +12,4 @@ A: The purpose of this website is to provide users with album recs curated by no
 
 My website has an additional feature that allows you to randomly pick one album out of the entire site's database to listen to.
 
-NOTE: As of 8/26/24 this site is unfinished.
+NOTE: As of 9/4/24 the code for the site is finished but the images haven't been added yet. 
