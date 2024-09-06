@@ -1,0 +1,14 @@
+
+@mixin theme($color: #eb984e ) {
+    color: $color;
+    font-family: monospace;
+    font-size: x-large;
+}
+    
+.PresentDay {
+    @include theme($color: #eb984e);
+}
+    
+.PresentTime {
+    @include theme($color: #5dade2 );
+}
