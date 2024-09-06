@@ -2,7 +2,8 @@
 @mixin theme($color: #eb984e ) {
     color: $color;
     font-family: monospace;
-    font-size: x-large;
+    font-size: xx-large;
+    display: flex;
 }
     
 .PresentDay {
