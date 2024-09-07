@@ -5,15 +5,41 @@
     position: absolute;
 }
     
-.PresentDay {
+#PresentDayID {
     @include theme($color: #eb984e);
     top: 50px;
     left: 50px;
 
 }
     
-.PresentTime {
+#PresentTimeID {
     @include theme($color: #5dade2 );
-    top: 400px;
+    top: 500px;
     right: 200px;
+}
+
+.CDContainer {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.CD {
+    width: 200px;
+    height: 200px;
+    animation-name: spin;
+    animation-duration: 60s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes spin {
+    from{
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(3600deg);
+    }
+    
 }
