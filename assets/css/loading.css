@@ -3,8 +3,8 @@
   font-family: monospace;
   font-size: xx-large;
   position: absolute;
-  left: 200px;
   top: 50px;
+  left: 50px;
 }
 
 .PresentTime {
@@ -12,6 +12,6 @@
   font-family: monospace;
   font-size: xx-large;
   position: absolute;
-  right: 200px;
   top: 400px;
+  right: 200px;
 }/*# sourceMappingURL=loading.css.map */

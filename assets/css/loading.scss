@@ -1,4 +1,3 @@
-
 @mixin theme($color: #eb984e ) {
     color: $color;
     font-family: monospace;
@@ -8,14 +7,13 @@
     
 .PresentDay {
     @include theme($color: #eb984e);
-    left: 200px;
     top: 50px;
- 
+    left: 50px;
+
 }
     
 .PresentTime {
     @include theme($color: #5dade2 );
-    right: 200px;
     top: 400px;
-
+    right: 200px;
 }
