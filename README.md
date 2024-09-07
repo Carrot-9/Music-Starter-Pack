@@ -7,9 +7,3 @@ A: Music Starter Pack is the name of my first website. This website was made as 
 2.What is the purpose of this website?
 
 A: The purpose of this website is to provide users with album recs curated by none other than me, Carrot! These album recs are seperated and filtered by genre, making it easy to find an album that's just right for you! 
-
-3. Additional Features
-
-My website has an additional feature that allows you to randomly pick one album out of the entire site's database to listen to.
-
-NOTE: As of 9/4/24 the code for the site is finished but the images haven't been added yet. 
