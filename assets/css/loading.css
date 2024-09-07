@@ -2,12 +2,16 @@
   color: #eb984e;
   font-family: monospace;
   font-size: xx-large;
-  display: flex;
+  position: absolute;
+  left: 200px;
+  top: 50px;
 }
 
 .PresentTime {
   color: #5dade2;
   font-family: monospace;
   font-size: xx-large;
-  display: flex;
+  position: absolute;
+  right: 200px;
+  top: 400px;
 }/*# sourceMappingURL=loading.css.map */

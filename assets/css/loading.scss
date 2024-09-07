@@ -3,13 +3,19 @@
     color: $color;
     font-family: monospace;
     font-size: xx-large;
-    display: flex;
+    position: absolute;
 }
     
 .PresentDay {
     @include theme($color: #eb984e);
+    left: 200px;
+    top: 50px;
+ 
 }
     
 .PresentTime {
     @include theme($color: #5dade2 );
+    right: 200px;
+    top: 400px;
+
 }
