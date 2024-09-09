@@ -25,11 +25,11 @@
    document.getElementById('album-image').src = RANDOM.image;
    document.getElementById('album-title').innerText = RANDOM.name;
    } catch(error) {
-   console.log("An error has occured:", error)
+   console.log("An error has occured:", error.message)
       }
    }
  }
 
-   
+
    
    
